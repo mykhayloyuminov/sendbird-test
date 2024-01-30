@@ -18,7 +18,6 @@ const App = () => {
       includeEmpty: true,
     },
   });
-  console.log(query, 'query');
   return (
     <div className="app">
       <SendBirdProvider
