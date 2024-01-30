@@ -1,12 +1,24 @@
 @font-face {
-  font-family: 'Urbanist';
-  font-style: normal;
-  font-weight: 500;
-  src: url(../assets/fonts/Urbanist-Medium.ttf);
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 500;
+    src: url(../assets/fonts/Urbanist-Medium.ttf);
 }
 
 @font-face {
-  font-family: 'Urbanist';
-  font-weight: 400;
-  src: url(../assets/fonts/Urbanist-Regular.ttf);
+    font-family: 'Urbanist';
+    font-weight: 400;
+    src: url(../assets/fonts/Urbanist-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    font-weight: 700;
+    src: url(../assets/fonts/Urbanist-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Manrope';
+    font-weight: 700;
+    src: url(../assets/fonts/Manrope-Bold.ttf);
 }
