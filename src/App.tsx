@@ -22,7 +22,7 @@ const App = () => {
   return (
     <div className="app">
       <SendBirdProvider
-        appId={process.env.REACT_APP_SENDBIRD_ID || ''}
+        appId={'9F6C317F-D955-4591-A0D3-67CDB3D425D7'}
         userId="qwyeqwoyeriquer"
         nickname={'Fawaz'}
         isVoiceMessageEnabled={false}
